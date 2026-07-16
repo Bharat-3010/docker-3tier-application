@@ -129,7 +129,7 @@ git clone <https://github.com/Bharat-3010/docker-3tier-application.git>
 Move into the project.
 
 ```bash
-cd docker-assessment
+cd docker-3tier-application
 ```
 
 Start the application.
