@@ -182,49 +182,35 @@ http://localhost:8080/employees
 
 > 
 
-```
 ![Project Structure](images/project-structure.png)
-```
 
----
 
 ## Docker Containers Running
 
 >
 
-```
 ![Docker Containers](images/docker-ps.png)
-```
 
----
 
 ## Docker Images
 
 > 
 
-```
 ![Docker Images](images/docker-images.png)
-```
 
----
 
 ## React Application
 
 > 
 
-```
 ![React Application](images/frontend.png)
-```
 
----
 
 ## Docker Compose Up
 
 > 
 
-```
 ![Docker Compose Up](images/docker-compose-up.png)
-```
 
 ---
 
