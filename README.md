@@ -123,7 +123,7 @@ SPRING_DATASOURCE_PASSWORD=root
 Clone the repository.
 
 ```bash
-git clone <your-github-repository>
+git clone <https://github.com/Bharat-3010/docker-3tier-application.git>
 ```
 
 Move into the project.
@@ -214,16 +214,6 @@ images/docker-images.png
 
 ```
 images/frontend.png
-```
-
----
-
-## Employee CRUD
-
->
-
-```
-images/crud.png
 ```
 
 ---
