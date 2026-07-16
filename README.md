@@ -183,17 +183,17 @@ http://localhost:8080/employees
 > 
 
 ```
-images/project-structure.png
+![Project Structure](images/project-structure.png)
 ```
 
 ---
 
 ## Docker Containers Running
 
-> 
+>
 
 ```
-images/docker-ps.png
+![Docker Containers](images/docker-ps.png)
 ```
 
 ---
@@ -203,7 +203,7 @@ images/docker-ps.png
 > 
 
 ```
-images/docker-images.png
+![Docker Images](images/docker-images.png)
 ```
 
 ---
@@ -213,7 +213,7 @@ images/docker-images.png
 > 
 
 ```
-images/frontend.png
+![React Application](images/frontend.png)
 ```
 
 ---
@@ -223,7 +223,7 @@ images/frontend.png
 > 
 
 ```
-images/docker-compose-up.png
+![Docker Compose Up](images/docker-compose-up.png)
 ```
 
 ---
@@ -232,7 +232,7 @@ images/docker-compose-up.png
 
 **Bharat Mohite**
 
-DevOps & Java Backend Enthusiast
+DevOps & Java Backend 
 
 GitHub:
 https://github.com/Bharat-3010
